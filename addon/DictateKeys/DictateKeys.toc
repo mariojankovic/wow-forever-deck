@@ -1,0 +1,5 @@
+## Interface: 16001
+## Title: DictateKeys
+## Notes: Binds F12 to Open Chat, used by deck-dictate
+## Author: Mario Jankovic
+DictateKeys.lua
